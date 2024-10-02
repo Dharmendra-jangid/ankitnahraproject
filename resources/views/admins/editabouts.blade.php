@@ -45,6 +45,7 @@
 
                                     <div class="form-group">
                                         <label class="form-control-label">Qualification</label>
+
                                         <textarea name="qualification"   id="editor5">{{$about->qualification}}</textarea>
 
 
